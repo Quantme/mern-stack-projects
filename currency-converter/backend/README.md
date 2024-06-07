@@ -1,5 +1,9 @@
-# MERN Currency converter
+# MERN Currency converter backend.
 
-**Back-end**: NodeJS/Express/Axios requests to [ExchangeRate-API](https://www.exchangerate-api.com), a currency conversion data API.
+Integration of a NodeJS/Express/Axios currency conversion data API [ExchangeRate-API](https://www.exchangerate-api.com), using requests to the Vite & React [frontend](/currency-converter/frontend/).
 
+Installation:
 - `npm i`
+
+Run:
+- `node --watch app` or `node app`

@@ -1,7 +1,7 @@
-# MERN Currency converter
+# MERN currency converter.
 
-## **[Back-end](/currency-converter/backend/)**
-NodeJS/Express/Axios requests to [ExchangeRate-API](https://www.exchangerate-api.com), a currency conversion data API.
+## **[Backend](/currency-converter/backend/)**
+NodeJS/Express/Axios API for requests to the [ExchangeRate-API](https://www.exchangerate-api.com), an API for currency conversion data.
 
-## **[Front-end](/currency-converter/frontend/)**
-[Vite](https://vitejs.dev/) is a development environment that offers instant server start, lightning fast HMR, rich features, optimized build, universal plugins and fully typed APIs.
+## **[Frontend](/currency-converter/frontend/)**
+A [Vite & React](https://vitejs.dev/) development environment that provides an instant server launch.
